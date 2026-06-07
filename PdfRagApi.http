@@ -1,0 +1,6 @@
+@PdfRagApi_HostAddress = http://localhost:5104
+
+GET {{PdfRagApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
